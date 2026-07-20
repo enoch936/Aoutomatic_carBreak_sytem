@@ -80,3 +80,7 @@ The controller continuously measures distance, then adjusts speed, visual indica
 - The LCD address in the sketch is set to `0x27`.
 - The braking thresholds are controlled in code and can be tuned for different sensor setups.
 - The diagram file is embedded above so it displays directly in the README on GitHub.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
