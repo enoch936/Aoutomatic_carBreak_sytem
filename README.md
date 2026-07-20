@@ -1,5 +1,10 @@
 # Automatic Car Brake System
 
+![Arduino](https://img.shields.io/badge/Platform-Arduino%20Uno-00979D?logo=arduino&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Diagram](https://img.shields.io/badge/Schematic-Proteus-orange)
+
 ![Automatic Car Brake System Diagram](AutomaticCarBrakeSystem.SVG)
 
 An Arduino-based obstacle-aware braking prototype for a small robotic vehicle. The system uses an ultrasonic sensor to detect nearby objects, regulates motor output through an L298 driver, and presents live status through a 16x2 I2C LCD, LEDs, and a buzzer.
@@ -84,3 +89,7 @@ The controller continuously measures distance, then adjusts speed, visual indica
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Suggested GitHub Topics
+
+Add these topics in the GitHub repository settings for better discoverability: `arduino`, `robotics`, `automatic-braking`, `ultrasonic-sensor`, `l298`, `proteus`, `embedded-systems`, `iot`.
